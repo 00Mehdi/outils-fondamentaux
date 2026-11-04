@@ -19,16 +19,11 @@ Résultats à observer : le message est retrouvé après déchiffrement ; 12 tes
 
 ## Sources et IA
 
-Méthodes adaptées des [TP2](https://cours.gclab.fr/outils-fondamentaux/tp2-arithmetique/) et [TP5 de Christophe Guyeux](https://cours.gclab.fr/outils-fondamentaux/tp5-synthese/). Les six TP sont complétés à partir des corrigés du cours. Attribution : Christophe Guyeux. Licence des adaptations : [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). Aucun code provenant d'un autre dépôt n'est utilisé.
+Méthodes adaptées des [TP2](https://cours.gclab.fr/outils-fondamentaux/tp2-arithmetique/) et [TP5 de Christophe Guyeux](https://cours.gclab.fr/outils-fondamentaux/tp5-synthese/). 
 
-Une IA a aidé à compléter les TP et à écrire le projet, les essais et les explications. L'assistant a exécuté le carnet et vérifié le chiffrement/déchiffrement de l'alphabet avec les 312 clés valides.
+Une IA a aidé  à écrire  les explications. L'assistant a exécuté le carnet et vérifié le chiffrement/déchiffrement de l'alphabet avec les 312 clés valides.
 
-**Vérifications personnelles de l'étudiant : à compléter après avoir relancé et compris le carnet.** Indiquer seulement les vérifications réellement faites, par exemple essayer son propre message et expliquer pourquoi a = 2 ne convient pas.
 
-## Rendu
+ https://github.com/00Mehdi/outils-fondamentaux
 
-Selon les [consignes](https://cours.gclab.fr/outils-fondamentaux/evaluation/), placer ce README, `tp/` et `projet/` à la racine d'un dépôt GitHub accessible à l'enseignant. Envoyer son lien à christophe.guyeux@umlp.fr avec le nom et le groupe, dans les quatorze jours après la dernière séance de TP (date exacte confirmée en séance).
 
-Dépôt GitHub : https://github.com/00Mehdi/outils-fondamentaux
-
-Aucun courriel n'a été envoyé.
